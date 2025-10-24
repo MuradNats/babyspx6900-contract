@@ -51,11 +51,11 @@ Audit report: [`audit/self_audit_report.md`](audit/self_audit_report.md)
 ---
 
 ## 🌐 Official Links
-- Website: https://babyspx6900.xyz  
-- Twitter/X: https://twitter.com/BabySPX6900  
-- Telegram: https://t.me/BabySPX6900  
+- Website: https://www.babyspx.com/
+- Twitter/X: https://x.com/Babyspx6900CTO
+- Telegram: https://t.me/+r3F12O7vtqo4ZjVh  
 - Medium: https://medium.com/@babyspx6900  
-- Whitepaper: https://babyspx6900.gitbook.io/whitepaper
+- Whitepaper: https://github.com/MuradNats/babyspx6900-contract/blob/main/BabySPX%20whitepaper
 
 ---
 
